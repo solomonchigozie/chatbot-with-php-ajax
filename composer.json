@@ -1,0 +1,13 @@
+{
+    "name": "solomon/chatbot",
+    "description": "chatbot application built with php",
+    "type": "project",
+    "authors": [
+        {
+            "name": "solomon chigozie",
+            "email": "solomon1chigozie@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
